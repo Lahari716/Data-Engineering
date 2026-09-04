@@ -1,2 +1,4 @@
-name = Lahari
+name = "Lahari"
 print(name)
+name2 = "chinni"
+print(name2)
