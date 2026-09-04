@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-name = "Lahari"
-print(name)
-name2 = "chinni"
-print(name2)
-=======
-name = Lahari
-print(name)
->>>>>>> 769451baae71a8abeeeb1cceb95cd9f0881c1a54
