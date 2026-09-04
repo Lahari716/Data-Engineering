@@ -5,3 +5,7 @@ rem = num % 10
 rev = rev * rem + 10
 num = num / 10
 print(rev)
+if(num==rev):
+    print("yes reversed",rev)
+else:
+    print("no not reversed")
