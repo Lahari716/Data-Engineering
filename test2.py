@@ -9,3 +9,4 @@ if(num==rev):
     print("yes reversed",rev)
 else:
     print("no not reversed")
+    print("thank Youu")
